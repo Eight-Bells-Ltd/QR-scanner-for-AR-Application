@@ -29,7 +29,6 @@ The user needs to grant permission when opening the application for the first ti
 
 In the manifest.xml file in Android Studio (https://developer.android.com/studio), the following permissions need to be added:
 
-<uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-<uses-permission android:name="android.permission.VIBRATE" />
 
+
+![2023-12-13 09_45_27-Window](https://github.com/Eight-Bells-Ltd/QR-scanner-for-AR-Application/assets/144778142/e18d4278-c286-4afe-9a2c-5dd67cabdaec)
