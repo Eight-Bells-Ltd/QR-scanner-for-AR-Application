@@ -32,3 +32,6 @@ In the manifest.xml file in Android Studio (https://developer.android.com/studio
 
 
 ![2023-12-13 09_45_27-Window](https://github.com/Eight-Bells-Ltd/QR-scanner-for-AR-Application/assets/144778142/e18d4278-c286-4afe-9a2c-5dd67cabdaec)
+
+
+![2023-12-13 09_47_11-Window](https://github.com/Eight-Bells-Ltd/QR-scanner-for-AR-Application/assets/144778142/89d3ce10-eda7-4c64-8ffd-872416182a07)
